@@ -1,7 +1,4 @@
----
-permalink: /robots.txt
----
 User-agent: *
 Disallow:
 
-Sitemap: {{ site.baseurl | prepend: site.url }}/sitemap.xml
+Sitemap: https://king-s-knowledge-graph-lab.github.io/knowledge-engineering-hackathon//sitemap.xml
