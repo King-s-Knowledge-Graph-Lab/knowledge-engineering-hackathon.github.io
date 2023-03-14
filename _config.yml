@@ -126,7 +126,7 @@ pagination:
   enabled: true
 
 related_blog_posts:
-  enabled: true
+  enabled: false  # issues 64, 1203
   max_related: 5
 
 # Giscus comments (RECOMMENDED)
