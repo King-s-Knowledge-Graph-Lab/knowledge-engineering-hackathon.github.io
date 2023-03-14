@@ -40,10 +40,10 @@ layout: default
             {{ content }}
           </div>
 
-          <!-- News -->
-          {% if page.news -%}
-            <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">news</a></h2>
-            {%- include news.html %}
+          <!-- Schedule -->
+          {% if page.schedule -%}
+            <h2><a href="{{ '/schedule/' | relative_url }}" style="color: inherit;">Schedule</a></h2>
+            {%- include schedule.html %}
           {%- endif %}
 
           <!-- Selected papers -->
