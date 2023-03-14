@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /attending/
+permalink: /knowledge-engineering-hackathon/attending/
 title: attending
 description: 
 nav: true
