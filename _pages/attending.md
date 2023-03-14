@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /knowledge-engineering-hackathon/attending/
+permalink: /attending/
 title: attending
 description: 
 nav: true
-nav_order: 7
+nav_order: 2
 ---
 
 ## Main Venue
