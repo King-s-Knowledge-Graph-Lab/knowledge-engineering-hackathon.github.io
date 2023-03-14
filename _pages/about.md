@@ -1,10 +1,10 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: >
-    <p> Research Hackathon on Knowledge Engineering and Prompt Engineering <p>
-    <p> <strong>August 07 - 10, London, UK<strong> <p>
+    <h4> Research Hackathon on Knowledge Engineering and Prompt Engineering <h4>
+    <h4> <strong>August 07 - 10, London, UK<strong> <h4>
 
 
 # profile:

@@ -1,20 +1,20 @@
 ---
 layout: page
 permalink: /attending/
-title: attending
+title: Attending
 description: 
 nav: true
 nav_order: 2
 ---
 
-## Main Venue
+### Main Venue
 
-The address of the hackathon will be:
+The address of the hackathon will be hosted at King's College London in [Bush House (SE) 1.02](https://internal.kcl.ac.uk/timetabling/room-info/bush-house/BHSEW1.02).
 
-## Participant Accommondation
+### Participant Accommondation
 
-Participants who are not based in London will be provided with accommondations:
+Participants who are not based in London will be provided with accommondations in [Stamford Street Apartment](https://www.kcl.ac.uk/accommodation/residences/stamford-street-apartments).
 
-## Social Event
+### Social Event
 
-We will organize social events for all participants and supervisors:
+Social events will be organized for all participants and supervisors. Information will be released soon.
